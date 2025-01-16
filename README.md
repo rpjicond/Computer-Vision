@@ -61,9 +61,7 @@
 | videos | Videos | [Link](https://github.com/rpjicond/Computer-Vision-Projects/tree/main/videos) |
 | FPS-display-webcam | FPS-display-webcam.py | [Link](https://github.com/rpjicond/Computer-Vision-Projects/tree/main/FPS-display-webcam.py) |
 | Real_time_angle_detector | Real_time_angle_detector.py | [Link](https://github.com/rpjicond/Computer-Vision-Projects/blob/main/Real_time_angle_detector) |
-| Live_Pose_Detector | Live-Pose-Detector.py | [Link](https
-
-://github.com/rpjicond/Computer-Vision-Projects/tree/main/Live_Pose_Detector) |
+| Live_Pose_Detector | Live-Pose-Detector.py | [Link](https://github.com/rpjicond/Computer-Vision-Projects/tree/main/Live_Pose_Detector) |
 | Live_QR_Code_Reader | Live_QR_Code_Reader.py | [Link](https://github.com/rpjicond/Computer-Vision-Projects/tree/main/Live_QR_Code_Reader) |
 | Real_Time_Sudoku_Solver | Real_Time_Sudoku_Solver.py | [Link](https://github.com/rpjicond/Computer-Vision-Projects/tree/main/Real_Time_Sudoku_Solver) |
 | Real_Time_Object_Detection | Real_Time_Object_Detection.py | [Link](https://github.com/rpjicond/Computer-Vision-Projects/tree/main/Real_Time_Object_Detection) |
